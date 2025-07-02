@@ -1,7 +1,7 @@
 name = "VNP43NRT"
 uuid = "ebab2807-db99-43b5-90ec-49665e98c321"
 authors = ["Gregory Halverson <gregory.h.halverson@jpl.nasa.gov>"]
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 ArchGDAL = "c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3"
