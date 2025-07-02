@@ -76,3 +76,21 @@ The package is organized into several key components:
 
 Contributions to `VNP43NRTAlbedo.jl` are welcome! Please refer to the guidelines for contributing to Julia packages.
 
+## References
+
+1. **Schaaf, C. B., Gao, F., Strahler, A. H., Lucht, W., Li, X., Tsang, T., Strugnell, N. C., Zhang, X., Jin, Y., Muller, J.-P., Lewis, P., Barnsley, M. J., Hobson, P., Disney, M., Roberts, G., Dunderdale, M., Doll, C., d’Entremont, R. P., Hu, B., Liang, S., Privette, J. L., & Roy, D. (2002).**  
+   First operational BRDF, albedo nadir reflectance products from MODIS. *Remote Sensing of Environment*, 83(1-2), 135-148.  
+   [https://doi.org/10.1016/S0034-4257(02)00091-3](https://doi.org/10.1016/S0034-4257(02)00091-3)
+
+2. **Lucht, W., Schaaf, C. B., & Strahler, A. H. (2000).**  
+   An algorithm for the retrieval of albedo from space using semiempirical BRDF models. *IEEE Transactions on Geoscience and Remote Sensing*, 38(2), 977-998.  
+   [https://doi.org/10.1109/36.841980](https://doi.org/10.1109/36.841980)
+
+3. **Schaaf, C. B., Liu, J., Gao, F., Strahler, A. H., & Jin, Y. (2011).**  
+   VIIRS Bidirectional Reflectance Distribution Function and Albedo Climate Data Record (BRDF/Albedo CDR) Algorithm Theoretical Basis Document (ATBD).  
+   [NOAA/NCEI CDR Documentation](https://www.ncei.noaa.gov/pub/data/sds/cdr/CDRs/VIIRS_Land_Surface_Reflectance/VNP43MA3/DOC/ATBD_VNP43MA3_CDR_v1.0.pdf)
+
+4. **USGS MODIS & VIIRS Land Products:**  
+   [MODIS BRDF/Albedo Product Overview](https://modis-land.gsfc.nasa.gov/brdf.html)  
+   [VIIRS BRDF/Albedo Product Overview (VNP43)](https://lpdaac.usgs.gov/products/vnp43ma3v001/)
+
