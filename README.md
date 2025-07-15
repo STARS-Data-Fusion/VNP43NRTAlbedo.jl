@@ -70,7 +70,7 @@ The package is organized into several key components:
 * **Date Utilities**:
     * `date_range`: Generates a vector of `Date` objects within a specified range.
 * **Internal Modules**:
-    * `MODLAND.jl` and `VIIRS.jl`: These are included to encapsulate functionalities specific to MODIS and VIIRS satellite sensors, respectively (e.g., data structures, constants).
+    * `Modland.jl` (external package) and `VIIRS.jl`: `Modland.jl` provides utilities and constants for MODIS/VIIRS satellite sensors. `VIIRS.jl` remains as an internal module for VIIRS-specific functionality.
 
 ## Contributing
 

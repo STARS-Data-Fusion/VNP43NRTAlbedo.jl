@@ -10,8 +10,7 @@ using ProgressMeter
 # Include modules defining MODIS and VIIRS specific functionalities.
 # These modules likely contain data structures, helper functions, or constants
 # relevant to processing data from these satellite sensors.
-include("MODLAND.jl")
-using .MODLAND
+using Modland
 
 include("VIIRS.jl")
 using .VIIRS
