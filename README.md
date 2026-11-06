@@ -5,7 +5,7 @@ Near-Real-Time Implementation of the VNP43 VIIRS BRDF Correction Algorithm for V
 The `VNP43NRTAlbedo.jl` package provides a Julia implementation of the Near-Real-Time (NRT) VIIRS Bidirectional Reflectance Distribution Function (BRDF) correction algorithm, specifically designed for VNP09GA Surface Reflectance data. This package allows for the calculation of key land surface albedo products, including **White-Sky Albedo (WSA)**, **Black-Sky Albedo (BSA)**, and **Nadir BRDF Adjusted Reflectance (NBAR)**, by inverting a BRDF model from observed reflectances and associated solar-view geometry.
 
 ## Contact
-
+<!-- 
 Margaret Johnson (she/her)<br>
 [maggie.johnson@jpl.nasa.gov](mailto:maggie.johnson@jpl.nasa.gov)<br>
 Algorithm implementation<br>
@@ -25,6 +25,7 @@ Kerry Cawse-Nicholson (she/her)<br>
 [kerry-anne.cawse-nicholson@jpl.nasa.gov](mailto:kerry-anne.cawse-nicholson@jpl.nasa.gov)<br>
 Concept development and project management<br>
 NASA Jet Propulsion Laboratory
+-->
 
 ## Features
 
